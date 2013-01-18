@@ -1,0 +1,29 @@
+Use Five buttton given at the bottom to change the look and feel as desired.
+
+FILE    New- to open any new file
+	Open- to open a file(.txt) from  anywhere
+	Save- to save the file at desired place
+	Exit- to close the software
+EDIT  
+	Cut- to remove the selected text
+	Copy and Paste- Select the text which is to be copied.Click copy and move the cursor to the desired place and then
+             again select the text and then click paste.
+	Undo- To remove the previous tasks.
+INSERT 
+	Picture- To upload any picture
+	Chart- To present the bar chart of student versus their marks.
+	Table- To create a table and edit it.
+MEDIA	
+	Image Options- To change brightness,contrast,darkness,inverting the color,reset the picture,balck and white etc.
+	Audio- to play anyy song of wav format.
+
+CALCULATE
+	Scientific calculator- To do the calculation.
+	
+WEB
+	To open any website in default web browser.
+
+HELP
+	About Sofware- details about the software.
+	
+Besides  this it can be used to change the color of the text, altering the size,making it to bold,italic,underline .

@@ -1,0 +1,14 @@
+This is an anhanced version of nptepad which enables us to 
+deal with some extra features such as image-processing,
+audio player, calculator etc.
+
+It comprises of the normal features of notepad like file 
+saving,open,new file etc.
+
+Along with this it also enables the user to play with some
+features of "Microsoft Word" like as Changing font color,
+cut,copy ,paste, altering the size of text,changing font 
+to Bold,Italic,Underline etc.
+
+One of the Important feature of it is that that it can change 
+its look and feel in several looks such as Windows,Nimbus etc.
